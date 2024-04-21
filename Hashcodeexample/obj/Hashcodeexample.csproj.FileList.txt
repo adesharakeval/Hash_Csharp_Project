@@ -1,0 +1,5 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Hashcodeexample.exe
+bin\Debug\Hashcodeexample.pdb
+obj\Debug\Hashcodeexample.exe
+obj\Debug\Hashcodeexample.pdb
